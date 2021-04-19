@@ -1,0 +1,4 @@
+0 transportes_aereos
+1 transportes_terrestres
+2 transportes_maritimos
+3 transportes_ferroviarios
